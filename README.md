@@ -1,6 +1,6 @@
 ### 👋Welcome to my GitHub! 🚀
 
-😄 My name is Viviana and my pronouns are She/Her. I'm a EA turned software developer who joined the tech world in 2022. I'm passionate about learning new skills, solving problems and creating value with code.   👯I really look forward to making an impact by collaborating on some amazing projects with other talented developers. Feel free to reach out to me if you have any questions, feedback or ideas. Thank you for visiting! 
+😄 My name is V and my pronouns are She/Her. I'm a EA turned software developer who joined the tech world in 2022. I'm passionate about learning new skills, solving problems and creating value with code.   👯I really look forward to making an impact by collaborating on some amazing projects with other talented developers. Feel free to reach out to me if you have any questions, feedback or ideas. Thank you for visiting! 
 
 <!--
 **VivAldama/VivAldama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
